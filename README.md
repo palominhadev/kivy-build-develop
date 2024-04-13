@@ -2,6 +2,8 @@
 
 Project created to facilitate app generation using the Kivy/KivyMD Python library.
 
+Based on version: KivyMD 2.0.1.dev0
+
 **The docker hub image already contains all the necessary dependencies to generate the apk. :** https://hub.docker.com/r/palominhahub/kivy-build-develop
 
 * You must have docker installed on your machine: https://docs.docker.com/install/
